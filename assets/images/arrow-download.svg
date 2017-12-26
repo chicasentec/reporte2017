@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-947.000000, -8682.000000)" stroke-linecap="round" stroke-linejoin="round">
+        <g id="arrow-right-copy-7" transform="translate(956.508199, 8695.330174) scale(-1, 1) rotate(-90.000000) translate(-956.508199, -8695.330174) translate(945.008199, 8686.830174)" stroke="#FFFFFF" stroke-width="2">
+            <path d="M22.8880032,8.31802246 L6.88800322,8.31802246" id="Shape"></path>
+            <path d="M0.129425399,16.412307 L0.129425399,0.412306973" id="Shape"></path>
+            <polyline id="Shape" points="12.8880032 14.3180225 6.88800322 8.31802246 12.8880032 2.31802246"></polyline>
+        </g>
+    </g>
+</svg>
